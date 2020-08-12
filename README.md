@@ -19,5 +19,5 @@ Hi There! My Name is Utku Tarhan, I am a CS student studying at San Francisco St
 
 Get in Touch 📫
 
-- Mail mailto:u@utkutarhan.com
+- Mail u@utkutarhan.com
 - LinkedIn https://www.linkedin.com/in/utkutarhan/
