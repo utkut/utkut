@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi There! My Name is Utku Tarhan, I am a CS student studying at San Francisco State University and I work @Apple as a Technical Expert. I am passionate about learning new technologies and solving challenging problems with these technologies that I learn about. I work on various of projects involving Swift, Web Development, and occasionally Java. 
+Hi There! My Name is Utku Tarhan, I am a CS student studying at San Francisco State University and I work @Apple as a Software Integrity Engineer. I am passionate about learning new technologies and solving challenging problems with these technologies that I learn about. I work on various of projects involving Swift, Web Development, and occasionally Java. 
 
 Get in Touch 📫
 
